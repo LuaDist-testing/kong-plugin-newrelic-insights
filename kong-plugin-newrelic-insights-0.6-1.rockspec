@@ -1,21 +1,21 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "kong-plugin-newrelic-insights"
-version = "0.5-1"
--- The version '0.5' is the source code version, the trailing '1' is the version of this rockspec.
+version = "0.6-1"
+-- The version '0.6' is the source code version, the trailing '1' is the version of this rockspec.
 -- whenever the source version changes, the rockspec should be reset to 1. The rockspec version is only
 -- updated (incremented) when this file changes, but the source remains the same.
 
 supported_platforms = {"linux", "macosx"}
 -- LuaDist source
 source = {
-  tag = "0.5-1",
+  tag = "0.6-1",
   url = "git://github.com/LuaDist-testing/kong-plugin-newrelic-insights.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/JnMik/kong-plugin-newrelic-insights",
---   tag = "0.5"
+--   tag = "0.6"
 -- }
 
 description = {
